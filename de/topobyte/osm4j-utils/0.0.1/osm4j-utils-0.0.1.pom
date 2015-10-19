@@ -38,6 +38,12 @@
     </dependency>
     <dependency>
       <groupId>de.topobyte</groupId>
+      <artifactId>adt-geo</artifactId>
+      <version>0.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>de.topobyte</groupId>
       <artifactId>commons-cli-helper</artifactId>
       <version>0.0.1</version>
       <scope>compile</scope>
@@ -52,6 +58,12 @@
       <groupId>de.topobyte</groupId>
       <artifactId>osm4j-geometry</artifactId>
       <version>0.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>de.topobyte</groupId>
+      <artifactId>jts-utils</artifactId>
+      <version>0.0.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
