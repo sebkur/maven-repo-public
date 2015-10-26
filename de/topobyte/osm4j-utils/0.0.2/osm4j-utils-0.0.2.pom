@@ -13,12 +13,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>de.topobyte</groupId>
-      <artifactId>osm4j-tbo</artifactId>
-      <version>0.0.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-log4j12</artifactId>
       <version>1.6.1</version>
@@ -27,6 +21,12 @@
     <dependency>
       <groupId>de.topobyte</groupId>
       <artifactId>osm4j-xml</artifactId>
+      <version>0.0.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>de.topobyte</groupId>
+      <artifactId>osm4j-tbo</artifactId>
       <version>0.0.2</version>
       <scope>compile</scope>
     </dependency>
