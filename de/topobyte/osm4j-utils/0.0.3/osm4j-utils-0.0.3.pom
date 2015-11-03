@@ -7,22 +7,16 @@
   <version>0.0.3</version>
   <dependencies>
     <dependency>
-      <groupId>org.slf4j</groupId>
-      <artifactId>slf4j-api</artifactId>
-      <version>1.6.1</version>
-      <scope>compile</scope>
+      <groupId>de.topobyte</groupId>
+      <artifactId>osm4j-testing</artifactId>
+      <version>0.0.2</version>
+      <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-log4j12</artifactId>
       <version>1.6.1</version>
       <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>de.topobyte</groupId>
-      <artifactId>osm4j-xml</artifactId>
-      <version>0.0.2</version>
-      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>de.topobyte</groupId>
@@ -50,20 +44,8 @@
     </dependency>
     <dependency>
       <groupId>de.topobyte</groupId>
-      <artifactId>osm4j-geometry</artifactId>
-      <version>0.0.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>de.topobyte</groupId>
       <artifactId>jts-utils</artifactId>
       <version>0.0.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.guava</groupId>
-      <artifactId>guava</artifactId>
-      <version>18.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -76,6 +58,36 @@
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-compress</artifactId>
       <version>1.8</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.6.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>de.topobyte</groupId>
+      <artifactId>osm4j-xml</artifactId>
+      <version>0.0.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.11</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>de.topobyte</groupId>
+      <artifactId>osm4j-geometry</artifactId>
+      <version>0.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>18.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
