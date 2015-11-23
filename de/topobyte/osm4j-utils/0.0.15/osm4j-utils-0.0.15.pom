@@ -57,7 +57,7 @@
     <dependency>
       <groupId>de.topobyte</groupId>
       <artifactId>osm4j-core</artifactId>
-      <version>0.0.7</version>
+      <version>0.0.8</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
