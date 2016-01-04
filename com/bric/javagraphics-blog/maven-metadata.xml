@@ -2,11 +2,11 @@
 <metadata>
   <groupId>com.bric</groupId>
   <artifactId>javagraphics-blog</artifactId>
-  <version>0.0.1</version>
   <versioning>
+    <release>0.0.1</release>
     <versions>
       <version>0.0.1</version>
     </versions>
-    <lastUpdated>20160103115641</lastUpdated>
+    <lastUpdated>20160104114218</lastUpdated>
   </versioning>
 </metadata>
