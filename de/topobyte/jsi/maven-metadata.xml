@@ -2,11 +2,11 @@
 <metadata>
   <groupId>de.topobyte</groupId>
   <artifactId>jsi</artifactId>
-  <version>1.1.0</version>
   <versioning>
+    <release>1.1.0</release>
     <versions>
       <version>1.1.0</version>
     </versions>
-    <lastUpdated>20151014085917</lastUpdated>
+    <lastUpdated>20160203165423</lastUpdated>
   </versioning>
 </metadata>
