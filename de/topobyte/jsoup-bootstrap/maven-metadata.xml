@@ -3,11 +3,12 @@
   <groupId>de.topobyte</groupId>
   <artifactId>jsoup-bootstrap</artifactId>
   <versioning>
-    <release>0.0.2</release>
+    <release>0.0.3</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
+      <version>0.0.3</version>
     </versions>
-    <lastUpdated>20160215233651</lastUpdated>
+    <lastUpdated>20160307155138</lastUpdated>
   </versioning>
 </metadata>
