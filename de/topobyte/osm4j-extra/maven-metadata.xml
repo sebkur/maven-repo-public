@@ -2,11 +2,12 @@
 <metadata>
   <groupId>de.topobyte</groupId>
   <artifactId>osm4j-extra</artifactId>
-  <version>0.0.1</version>
   <versioning>
+    <release>0.0.2</release>
     <versions>
       <version>0.0.1</version>
+      <version>0.0.2</version>
     </versions>
-    <lastUpdated>20151028124232</lastUpdated>
+    <lastUpdated>20160510205954</lastUpdated>
   </versioning>
 </metadata>
