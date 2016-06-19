@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>de.topobyte</groupId>
+  <artifactId>no-awt</artifactId>
+  <version>0.0.1</version>
+  <name>NoAwt</name>
+  <description>A partial clone of the java.awt package from OpenJDK for using those classes in non-awt environments like on Android or on GWT.</description>
+  <url>https://github.com/topobyte/no-awt</url>
+</project>
