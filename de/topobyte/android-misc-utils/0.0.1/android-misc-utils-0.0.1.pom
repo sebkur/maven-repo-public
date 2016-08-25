@@ -5,8 +5,12 @@
   <groupId>de.topobyte</groupId>
   <artifactId>android-misc-utils</artifactId>
   <version>0.0.1</version>
-  <packaging>aar</packaging>
-  <name>Android Misc Utils</name>
-  <description>Various utilities for working with Android</description>
-  <url>https://github.com/topobyte/android-misc-utils</url>
+  <dependencies>
+    <dependency>
+      <groupId>com.google.android</groupId>
+      <artifactId>android</artifactId>
+      <version>4.1.1.4</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
