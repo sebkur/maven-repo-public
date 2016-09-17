@@ -3,7 +3,7 @@
   <groupId>de.topobyte</groupId>
   <artifactId>jsoup-elements</artifactId>
   <versioning>
-    <release>0.0.11</release>
+    <release>0.0.12</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -16,7 +16,8 @@
       <version>0.0.9</version>
       <version>0.0.10</version>
       <version>0.0.11</version>
+      <version>0.0.12</version>
     </versions>
-    <lastUpdated>20160612143617</lastUpdated>
+    <lastUpdated>20160917091819</lastUpdated>
   </versioning>
 </metadata>
