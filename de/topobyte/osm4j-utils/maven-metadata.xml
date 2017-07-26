@@ -3,7 +3,7 @@
   <groupId>de.topobyte</groupId>
   <artifactId>osm4j-utils</artifactId>
   <versioning>
-    <release>0.0.24</release>
+    <release>0.0.25</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -29,7 +29,8 @@
       <version>0.0.22</version>
       <version>0.0.23</version>
       <version>0.0.24</version>
+      <version>0.0.25</version>
     </versions>
-    <lastUpdated>20170314132135</lastUpdated>
+    <lastUpdated>20170726170615</lastUpdated>
   </versioning>
 </metadata>
