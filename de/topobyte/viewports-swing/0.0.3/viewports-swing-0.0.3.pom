@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>de.topobyte</groupId>
+  <artifactId>viewports-swing</artifactId>
+  <version>0.0.3</version>
+  <name>Project</name>
+  <description>A viewports library</description>
+  <url>https://github.com/topobyte/viewports</url>
+  <licenses>
+    <license>
+      <name>GNU Lesser General Public License (LGPL), Version 3</name>
+      <url>https://www.gnu.org/licenses/lgpl-3.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>de.topobyte</groupId>
+      <artifactId>viewports-core</artifactId>
+      <version>0.0.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>de.topobyte</groupId>
+      <artifactId>swing-utils</artifactId>
+      <version>0.0.11</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>de.topobyte</groupId>
+      <artifactId>awt-utils</artifactId>
+      <version>0.0.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.16</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-log4j12</artifactId>
+      <version>1.6.1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
