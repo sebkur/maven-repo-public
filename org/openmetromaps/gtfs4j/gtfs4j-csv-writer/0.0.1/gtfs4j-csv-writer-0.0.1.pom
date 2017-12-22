@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.openmetromaps.gtfs4j</groupId>
+  <artifactId>gtfs4j-csv-writer</artifactId>
+  <version>0.0.1</version>
+  <name>gtfs4j - CSV writer module</name>
+  <description>gtfs4j: GTFS Java library</description>
+  <url>https://github.com/OpenMetroMaps/gtfs4j</url>
+  <licenses>
+    <license>
+      <name>GNU Lesser General Public License (LGPL), Version 3</name>
+      <url>https://www.gnu.org/licenses/lgpl-3.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>org.openmetromaps.gtfs4j</groupId>
+      <artifactId>gtfs4j-core</artifactId>
+      <version>0.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.openmetromaps.gtfs4j</groupId>
+      <artifactId>gtfs4j-csv-core</artifactId>
+      <version>0.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.sf.opencsv</groupId>
+      <artifactId>opencsv</artifactId>
+      <version>2.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-log4j12</artifactId>
+      <version>1.6.1</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.16</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
