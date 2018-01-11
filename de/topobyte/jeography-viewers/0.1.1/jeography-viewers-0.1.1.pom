@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>de.topobyte</groupId>
+  <artifactId>jeography-viewers</artifactId>
+  <version>0.1.1</version>
+  <name>Jeography Viewers</name>
+  <description>Viewers module of the Jeography GIS library</description>
+  <url>https://github.com/topobyte/jeography-gis</url>
+  <dependencies>
+    <dependency>
+      <groupId>de.topobyte</groupId>
+      <artifactId>jeography-tiles</artifactId>
+      <version>0.1.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>de.topobyte</groupId>
+      <artifactId>awt-utils</artifactId>
+      <version>0.0.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>de.topobyte</groupId>
+      <artifactId>melon-casting</artifactId>
+      <version>0.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.6.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.16</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.11</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-log4j12</artifactId>
+      <version>1.6.1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
