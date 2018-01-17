@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.openmetromaps.omm.v1</groupId>
+  <artifactId>omm-line-network-util</artifactId>
+  <version>0.0.1</version>
+  <name>OpenMetroMaps LineNetwork utilities</name>
+  <description>OpenMetroMaps LineNetwork utilities</description>
+  <url>https://github.com/OpenMetroMaps/OpenMetroMaps</url>
+  <licenses>
+    <license>
+      <name>GNU Lesser General Public License (LGPL), Version 3</name>
+      <url>https://www.gnu.org/licenses/lgpl-3.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>org.openmetromaps.omm.v1</groupId>
+      <artifactId>omm-maps-model</artifactId>
+      <version>0.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.openmetromaps.omm.v1</groupId>
+      <artifactId>omm-maps-model-util</artifactId>
+      <version>0.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.openmetromaps.omm.v1</groupId>
+      <artifactId>omm-lightgeom</artifactId>
+      <version>0.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.slimjars.trove4j</groupId>
+      <artifactId>trove4j-int-hash-set</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
