@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>de.topobyte</groupId>
+  <artifactId>gradle-cache-busting-plugin</artifactId>
+  <version>0.0.1</version>
+  <name>Topobyte Cache Busting Gradle Plugin</name>
+  <description>A plugin for busting the cache for static files in web projects</description>
+  <url>https://github.com/sebkur/gradle-cache-busting-plugin</url>
+  <licenses>
+    <license>
+      <name>GNU Lesser General Public License (LGPL), Version 3</name>
+      <url>https://www.gnu.org/licenses/lgpl-3.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>de.topobyte</groupId>
+      <artifactId>melon-paths</artifactId>
+      <version>0.0.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>commons-codec</groupId>
+      <artifactId>commons-codec</artifactId>
+      <version>1.13</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
