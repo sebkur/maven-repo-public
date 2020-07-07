@@ -3,7 +3,7 @@
   <groupId>de.topobyte</groupId>
   <artifactId>osm4j-extra</artifactId>
   <versioning>
-    <release>1.0.4</release>
+    <release>1.1.0</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -21,7 +21,8 @@
       <version>1.0.2</version>
       <version>1.0.3</version>
       <version>1.0.4</version>
+      <version>1.1.0</version>
     </versions>
-    <lastUpdated>20200706103513</lastUpdated>
+    <lastUpdated>20200707002153</lastUpdated>
   </versioning>
 </metadata>
