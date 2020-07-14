@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>de.topobyte</groupId>
-  <artifactId>xml4jah-dom</artifactId>
+  <artifactId>xml4jah-stax</artifactId>
   <versioning>
     <release>0.0.6</release>
     <versions>
-      <version>0.0.1</version>
-      <version>0.0.2</version>
-      <version>0.0.3</version>
-      <version>0.0.4</version>
-      <version>0.0.5</version>
       <version>0.0.6</version>
     </versions>
     <lastUpdated>20200714092747</lastUpdated>
