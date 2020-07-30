@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>de.topobyte</groupId>
+  <artifactId>osm4j-core</artifactId>
+  <version>1.1.1</version>
+  <name>osm4j-core</name>
+  <description>osm4j module with basic data structures</description>
+  <url>https://github.com/topobyte/osm4j</url>
+  <licenses>
+    <license>
+      <name>GNU Lesser General Public License (LGPL), Version 3</name>
+      <url>https://www.gnu.org/licenses/lgpl-3.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>de.topobyte</groupId>
+      <artifactId>adt-multicollections</artifactId>
+      <version>0.0.4</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.slimjars.trove4j</groupId>
+      <artifactId>trove4j-long-hash-set</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.slimjars.trove4j</groupId>
+      <artifactId>trove4j-long-array-list</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.slimjars.trove4j</groupId>
+      <artifactId>trove4j-long-object-hash-map</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.6.1</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
