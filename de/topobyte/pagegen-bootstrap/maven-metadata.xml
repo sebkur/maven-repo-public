@@ -3,7 +3,7 @@
   <groupId>de.topobyte</groupId>
   <artifactId>pagegen-bootstrap</artifactId>
   <versioning>
-    <release>1.1.0</release>
+    <release>1.2.0</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -12,7 +12,8 @@
       <version>0.1.1</version>
       <version>1.0.0</version>
       <version>1.1.0</version>
+      <version>1.2.0</version>
     </versions>
-    <lastUpdated>20200725201937</lastUpdated>
+    <lastUpdated>20210113092618</lastUpdated>
   </versioning>
 </metadata>
